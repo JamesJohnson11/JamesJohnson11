@@ -1,7 +1,3 @@
-<a target="_blank" href="https://shawncharles.com/">
-  <img src="https://i.imgur.com/536JNd9.jpg" width="100%">
-</a>
-
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/barryjjohnson11/">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
