@@ -10,7 +10,6 @@
 
 
 I am a Tampa-based Full-stack Software Engineer with a background in data analytics and reporting. 
-# :brain::brain: Mastermind :brain::brain:
 
 ---
 
