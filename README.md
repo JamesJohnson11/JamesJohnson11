@@ -4,13 +4,13 @@
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/barryjjohnson11/">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" style="margin-right: 100;" />
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn"  />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/CodeWithB">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" style="margin-right: 100;" />
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter"  />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://instagram.com/CodeWithB">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-ig.png" width="30px;" alt="Instagram" />
   </a>
